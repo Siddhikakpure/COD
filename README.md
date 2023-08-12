@@ -13,3 +13,9 @@ check out the Assig1.c file and below is the video
 
 https://github.com/Siddhikakpure/CODSOFT/assets/100514453/1ebcddfe-6a60-4e27-821e-e1184107d3da
 
+**Task 4: ToDo list in terminal**
+check out the Assig4.c file and below is the video 
+
+
+https://github.com/Siddhikakpure/CODSOFT/assets/100514453/02651df3-7f7c-4372-adfb-a8bf69d39d4c
+
